@@ -16,7 +16,9 @@ Create the KPI's accordingly.
 Create a dashboard.
 
 Attrition KPIs and insights:
-1.Attrition rate: Calculated as follows: (Number of employees remaining / Total number of employees), this metric measures the overall level of attrition in the company. 2.The average time : Provides insight into how long employees typically stay with the company. 3.Causes of attrition: Identify common reasons why employees leave, such as career advancement opportunities, compensation, or work-life balance. Insights from these metrics enable HR to identify areas for improvement and develop targeted retention strategies.
+1.Attrition rate: Calculated as follows: (Number of employees remaining / Total number of employees), this metric measures the overall level of attrition in the company. 
+2.The average time : Provides insight into how long employees typically stay with the company.
+3.Causes of attrition: Identify common reasons why employees leave, such as career advancement opportunities, compensation, or work-life balance. Insights from these metrics enable HR to identify areas for improvement and develop targeted retention strategies.
 
 KPI's
 Total Employees
@@ -47,11 +49,13 @@ Benefits of attrition analysis:
 Cost savings: Reduced revenue means lower recruitment and training costs.
 Cultural improvements: A better understanding of the reasons for leaving will help foster a positive work culture.
 Enhanced productivity: Lower turnover rates lead to a more stable and productive workforce.
+
 Recommendations and improvement techniques:
 The dashboard provides helpful suggestions to reduce attrition, such as:
 Employee engagement program: Implement programs to increase employee engagement and satisfaction.
 Career development plans: Yield advancement opportunities and a clear career path.
 Compensation and Benefits Evaluation: To remain competitive, compensation and benefits must be evaluated regularly.
 Flexible working Arrangements: Offer flexible working arrangements to improve work-life balance.
+
 Conclusion 💡
 The HR Attrition Analytics dashboard is a valuable resource for HR professionals and decision-makers seeking to better understand employee attrition. Companies may effectively reduce turnover and establish a stable, engaged, and productive workforce by studying demographic determinants, tracking KPIs, and applying improvement measures. more efficient.
